@@ -13,7 +13,7 @@ h1{
 
 h2{
     font-size: 14px;
-    color: coral;
+    color: rgb(134, 37, 2);
 }
 
 a:link{
@@ -36,6 +36,14 @@ a:hover {
      font-weight: bold;
  }
  figure{
-     float: right;
+     float: left;
  }
 
+ img{
+     margin: 5px;
+ }
+
+ video{
+     margin: 5px;
+     margin-top: 10px;
+ }
