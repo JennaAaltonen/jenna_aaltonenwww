@@ -14,11 +14,6 @@ img{
 padding:10px;
 }
 
-.col-sm-3 a{
-padding-top: 10px;
-margin-top: 20px;
-
-}
 
 .yellowbg{
     background-color:rgb(240, 240, 156);
@@ -28,7 +23,6 @@ margin-top: 20px;
 h3{
     margin-top: 10px;
     
-    margin-left: 15px;
 }
 
 h1{
@@ -54,3 +48,5 @@ footer{
 .row{
     margin:0px;
 }
+
+
