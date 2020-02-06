@@ -20,9 +20,7 @@ padding:10px;
     
 }
 
-.navbar{
-    height: 50px;
-}
+
 h3{
     margin-top: 10px;
     
@@ -52,4 +50,8 @@ footer{
     margin:0px;
 }
 
-
+.navbar.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
